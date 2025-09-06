@@ -45,3 +45,12 @@ int main() {
 
     return 0;
 }
+
+/*
+
+Time Complexity ≈ O(N!)+O(S⋅N^2)
+For counting-only without printing → O(N!)
+For printing all solutions → add O(S × N²)
+
+Space Complexity=O(N)
+*/
