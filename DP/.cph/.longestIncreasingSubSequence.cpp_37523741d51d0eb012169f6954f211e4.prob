@@ -1,0 +1,1 @@
+{"name":"Local: longestIncreasingSubSequence","url":"/Users/ishtiakrahman/Desktop/CODE/CP/DP/longestIncreasingSubSequence.cpp","tests":[{"id":1754488683412,"input":"8\n7 3 5 3 6 2 9 8","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ishtiakrahman/Desktop/CODE/CP/DP/longestIncreasingSubSequence.cpp","group":"local","local":true}

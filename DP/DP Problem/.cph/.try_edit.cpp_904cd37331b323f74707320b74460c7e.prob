@@ -1,0 +1,1 @@
+{"name":"Local: try_edit","url":"/Users/ishtiakrahman/Desktop/CODE/CP/DP/DP Problem/try_edit.cpp","tests":[{"id":1754720593744,"input":"LOVE\nMOVIE","output":"2"},{"id":1754720685347,"input":"horse\nros","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ishtiakrahman/Desktop/CODE/CP/DP/DP Problem/try_edit.cpp","group":"local","local":true}
